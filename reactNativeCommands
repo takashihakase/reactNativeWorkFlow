@@ -1,0 +1,4 @@
+npm install
+//Open up AVD from Android Studio.
+react-native run-android
+react-native start
